@@ -9,4 +9,4 @@ How it works: Briefly, the program iterates through rows and columns of the matr
 Read_csv and authenticate_data files place a backend logic of login and some questions to ask the user if they want to play the game.
 
 
-The FirstProjet folder contains the separate django project in which we create an application, views, template, static files, three models, migrate models to database and populate with 30 random values.
+The FirstProject folder contains the separate django project in which we create an application, views, template, static files, three models, migrate models to database and populate with 30 random values.
